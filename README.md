@@ -1,7 +1,7 @@
 # Frontend Challenge
 A React focused take home challenge for Front-end Developers.
 You will be building an admin dashboard for a made up e-commerce store. 
-The admin should be able to create, delete, and sort the list of product cards. 
+The admin should be able to create, delete, and sort the list of product info cards. 
 You should focus on not only the functionality but design, usability and micro-interactions. 
 
 ## Instructions 
@@ -12,7 +12,7 @@ You should focus on not only the functionality but design, usability and micro-i
 - Please use ReactJS. All other choices of libraries, frameworks, etc. are up to you. Our stack is NextJS with vanilla CSS.
 
 ## Requirements
-- Product cards
+- Product info cards
     - We have provided a json file `dummyData.json` in the repository. This is what you will be using to render the product cards.
     - A product card consists of a products `title` `price` `description` `rating` `category`, and a list of images. All of these attributes should be displayed on the cards. (Only need to use a single image)
     - The design and layout is completely up to you. We have provided a mockup of the form to create a product as reference to the design. We are looking for clean and concise CSS and HTML markup.

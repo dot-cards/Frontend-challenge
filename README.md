@@ -1,5 +1,5 @@
 # Frontend Challenge
-An React focused take home challenge for Front-end Developers.
+A React focused take home challenge for Front-end Developers.
 You will be building an admin dashboard for a made up e-commerce store. 
 The admin should be able to create, delete, and sort the list of product cards. 
 You should focus on not only the functionality but design, usability and micro-interactions. 

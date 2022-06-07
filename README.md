@@ -1,8 +1,8 @@
 # Frontend Challenge
 An React focused take home challenge for Front-end Developers.
 You will be building an admin dashboard for a made up e-commerce store. 
-A admin should be able to create, delete, and sort the list of product cards. 
-You should focuses on not only the functionality but design, usability and micro interactions. 
+The admin should be able to create, delete, and sort the list of product cards. 
+You should focus on not only the functionality but design, usability and micro-interactions. 
 
 ## Instructions 
 - Clone this repository
@@ -14,9 +14,9 @@ You should focuses on not only the functionality but design, usability and micro
 ## Requirements
 - Product cards
     - We have provided a json file `dummyData.json` in the repository. This is what you will be using to render the product cards.
-    - A product card consists of a products `title` `price` `description` `rating` `category`, and a list of images. All of these attributes should be displayed on the cards. 
+    - A product card consists of a products `title` `price` `description` `rating` `category`, and a list of images. All of these attributes should be displayed on the cards. (Only need to use a single image)
     - The design and layout is completely up to you. We have provided a mockup of the form to create a product as reference to the design. We are looking for clean and concise CSS and HTML markup.
-    - The card needs to be a pure react component. 
+    - Please keep OOP principles in mind. 
 
 - Sort / filter product list
     - The product cards should be arranged in a grid. An info bar at the top with sort and filter input.
@@ -27,13 +27,13 @@ You should focuses on not only the functionality but design, usability and micro
         - `title` `description` `price` `rating` `category`
         - `id` is not part of the input list, it should be auto generated 
         - `image` file input is not required 
-    - We have provided a mockup of what the input field should look like on mobile. Slide up draws are not idea for desktop, can you implement a better option for desktop users? 
+    - We have provided a mockup of what the create product draw should look like on mobile. Slide up draws are not idea for desktop, can you implement a better option for desktop users? 
 - Delete a product
     - A button on the card to delete a product.
 - Edit a product 
     - Editing the product is not required!
 - Animation / Interactions
-    - We are looking for a frontend designer that is passionate about micro interactions. 
+    - We are looking for a frontend designer that is passionate about micro-interactions. 
     - Please add micro interactions / animations / transitions wherever to improves the user experience.
 - Responsive Design 
     - Make sure the e-commerce admin dashboard is responsive across all screen sizes.

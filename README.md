@@ -38,3 +38,17 @@ You should focus on not only the functionality but design, usability and micro-i
 - Responsive Design 
     - Make sure the e-commerce admin dashboard is responsive across all screen sizes.
     - Make sure it is cross browser compatible. 
+## Rubric
+The first thing we are looking for is your thought process. We want to see how you approach problems. Don't be afraid to change approaches in the middle. That might mean a lot of commits. If you just do one big commit at the end, all of your thought process is lost.
+
+The second is polish. That means in terms of functionality, but also in terms of code. In between can be messy, but your final commit should be demonstrating what you consider to be ready for production.
+
+The specification of the functionality is specifically designed to force you to make some design trade-offs. Be prepared to explain and defend the choices you make.
+
+These are the specific things we are looking at:
+
+- Functionality - Does it work? Does it meet all the needs as outlined in the specification?
+- Documentation - Is there a way to know what endpoints to hit? Are they clear and accurate?
+- Tools - Is the tooling appropriate to the problem? How well does it use the chosen tools? Does it follow best practices of the framework?
+- Style - Is there a clear separation of concerns? Does it reuse code where possible? Does it look good?
+- Commits - Is there a clear commit history to follow?
